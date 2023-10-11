@@ -1,0 +1,36 @@
+.b-l{
+  border-left: 1px solid var(--gray-color);
+}
+.b-r{
+  border-right: 1px solid var(--gray-color);
+}
+.p-l-1{
+  padding-left: 1rem;
+}
+.danger-color{
+  color: red;
+}
+.btn-primary{
+  color: white;
+  background-color: rgb(13, 110, 253);
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  width: max-content;
+}
+.main-text{
+  font-size: 3rem;
+  color: #F9FAF8;
+  font-weight: bolder;
+}
+.sec-text{
+  font-size: 18px;
+  text-align: justify;
+  color: #E5E7E8;
+}
+.logo-text{
+  font-size: 24px;
+  color: #F9FAF8;
+}
+.pointer{
+  cursor: pointer;
+}
