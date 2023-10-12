@@ -18,3 +18,8 @@ For more information visit [The Odin Project](https://www.theodinproject.com/)
     1. [Photo by DS stories](https://www.pexels.com/photo/stack-of-shiny-coins-with-cryptocurrency-logo-7267493/)
     1. [Photo by Anna Shvets](https://www.pexels.com/photo/person-holding-bank-card-4482900/)
     1. [Photo by Karolina Grabowska](https://www.pexels.com/photo/crop-anonymous-person-calculating-profit-on-smartphone-calculator-near-banknotes-4386321/)
+1. Portfolio section
+    1. [Photo by Narcisa Aciko](https://www.pexels.com/photo/photo-of-wind-turbines-lot-1292464/)
+    1. [Photo by fauxels](https://www.pexels.com/photo/man-wearing-brown-suit-jacket-3184339/)
+    1. [Photo by Burak The Weekender](https://www.pexels.com/photo/lighted-light-bulb-in-selective-focus-photography-45072/)
+
