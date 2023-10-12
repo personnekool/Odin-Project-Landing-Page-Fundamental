@@ -17,6 +17,9 @@
   padding: 0.5rem 1rem;
   width: max-content;
 }
+.justify-text{
+  text-align: justify;
+}
 .main-text{
   font-size: 3rem;
   color: #F9FAF8;
