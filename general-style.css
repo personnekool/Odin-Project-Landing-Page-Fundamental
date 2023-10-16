@@ -18,6 +18,7 @@
   background-color: rgb(13, 110, 253);
   border: 2px solid white;
   border-radius: 5px;
+  cursor:pointer;
   padding: 0.5rem 2rem;
   width: max-content;
 }
